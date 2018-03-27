@@ -1,1 +1,1 @@
-# 30-seconds-of-linux
+# 30 Seconds of Linux
